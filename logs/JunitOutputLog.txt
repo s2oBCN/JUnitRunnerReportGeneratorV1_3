@@ -1,0 +1,15 @@
+...E.
+Time: 0.015
+There was 1 error:
+1) testMultiplication(com.sample.testcase.SampleTestCase)java.lang.RuntimeException
+	at com.sample.testcase.SampleTestCase.testMultiplication(SampleTestCase.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at com.junit.tools.testcaserunner.JUnitTestCaseRunner.runTestCases(JUnitTestCaseRunner.java:40)
+	at com.junit.tools.testcaserunner.JUnitTestCaseRunner.start(JUnitTestCaseRunner.java:81)
+	at com.junit.tools.Main.TestRunner.main(TestRunner.java:10)
+
+FAILURES!!!
+Tests run: 4,  Failures: 0,  Errors: 1
+

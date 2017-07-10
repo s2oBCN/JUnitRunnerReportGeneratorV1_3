@@ -1,0 +1,10 @@
+Calling testSampleMethod1
+Calling testSampleMethod1
+Calling testSampleMethod1
+Calling testSampleMethod1
+Test Run Count > 4
+Test Failure Count > 0
+Test Error Count > 1
+Test Result > Failed
+Data saved
+Test case run completed

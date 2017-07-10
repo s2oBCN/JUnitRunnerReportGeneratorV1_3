@@ -1,0 +1,23 @@
+Release Notes V 1.3
+--------------------
+Type of change (BugFix/Feature Addtion/Both) - Feature Addition
+
+Changed Functionality
+----------------------
+Added support for other OS (Linux, Unix, Mac). Shell scripts are added 
+Components added -  dbSetup.sh, setEnv.sh, testRunner.sh and reportGenerator.sh added in folder bin
+
+===============================================================================
+
+Release Notes V 1.2
+--------------------
+
+Type of change (BugFix/Feature Addtion/Both) - Feature Addition
+
+Changed Functionality
+----------------------
+Report funcionality is enhanced to generate matrix report. Now test report won't duplicate the test case name if report is run to inlucde multiple run data.  Also for any new test case run the report will be shown with new status "No Run" for previous runs.
+
+Changed Components - com.junit.tools.Main.ReportUtil
+		     com.junit.tools.util.ReportGenerator
+		     
